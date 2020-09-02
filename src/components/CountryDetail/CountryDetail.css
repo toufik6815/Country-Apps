@@ -1,0 +1,18 @@
+.country-detail{
+    border: 5px double rgb(107, 209, 170);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px #00AD9F;
+    background: black;
+    color: #fff;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    width: 500px;
+    height: 910px;
+    font-size: calc(12px + 1vmin);
+    margin-left: 155px;
+    float: left;
+}
